@@ -54,10 +54,7 @@ Full Stack Engineering roles in fintech, edtech, and enterprise solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![Enwemasor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eenwemasor&show_icons=true&theme=github_dark&hide_title=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eenwemasor&layout=compact&theme=github_dark&hide_title=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=eenwemasor&theme=github-compact)
 
 ---
 
